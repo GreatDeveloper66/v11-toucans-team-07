@@ -18,5 +18,8 @@
   "homepage": "https://github.com/chingu-voyages/v11-toucans-team-07#readme",
   "devDependencies": {
     "standard": "^14.1.0"
+  },
+  "dependencies": {
+    "dotenv":"16.1.4"
   }
 }

@@ -2,9 +2,11 @@
   "name": "v11-toucans-team-07",
   "version": "1.0.0",
   "description": "Sticky Bot Clone for v11-toucans-team-07 project",
-  "main": "index.php",
+  "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "npx standard"
+    "test": "npx standard",
+    "start": "nodemon --watch index.js"
   },
   "repository": {
     "type": "git",

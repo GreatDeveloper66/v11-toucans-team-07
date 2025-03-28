@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "npx standard",
+    "build": "npm install",
     "start": "nodemon --watch index.js"
   },
   "repository": {

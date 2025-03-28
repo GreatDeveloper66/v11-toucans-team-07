@@ -1,49 +1,44 @@
 # v11-toucans-team-07
+
+## Description
 A clone of the TickyBot App made for the Chingu Tier 1 Voyage Assignment | Voyage-11 | https://chingu.io/ | https://twitter.com/ChinguCollabs
 
-This repository contains all the source code for the v11-toucans-team-07 Tier1 Voyage Assignment
 
-## Running Locally
+## Installation
+```bash
+# Clone the repository
+git clone https://github.com/GreatDeveloper66/v11-toucans-team-07
 
-Make sure you have [GitHub](https://github.com) and the [Heroku CLI](https://cli.heroku.com/) installed.
+# Navigate to the project directory
+cd v11-toucans-team-07
 
+# Install dependencies
+npm run build
 ```
-$ git clone https://github.com/chingu-voyages/v11-toucans-team-07 # or clone your own fork
-$ cd v11-toucans-team-07
-$ Open Index.php in browser
+
+## Usage
+```bash
+# Run the project
+npm run start
 ```
 
-## Deploying to Heroku
+## Configuration
+port number in environment variables used for deployment
 
-```
-$ heroku create
-$ git push heroku master
-$ heroku open
-```
-or
+## Contributing
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature-name`)
+3. Commit your changes (`git commit -m 'Add feature'`)
+4. Push to the branch (`git push origin feature-name`)
+5. Open a pull request
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-or
+## Contact
+Your Name - [ashaffe@gmail.com](mailto:ashaffe@gmail.com)]  
 
-[Visit Online](https://v11-toucans-team-07.herokuapp.com)
-
-## Documentation
-
-For more information about deploying to Heroku, see these Dev Center articles:
-
-- [Dev Center](https://devcenter.heroku.com)
-- [Articles on deploying static websites with PHP](https://devcenter.heroku.com/categories/php-support)
-- [How to Deploy Your Static Website on Heroku](https://medium.com/@adityaniloi/how-to-deploy-a-static-website-to-heroku-49d55e07cb94)
-
-###License
-
-This project is licensed under the MIT License-see the LICENSE.md file for more details.
-
-###Versioning
-
-We use SemVer for versioning. For the versions available, see the tags on this repository.
-
-###Author
+## Author
 
 Code written and tested by Adam Shaffer(https://github.com/GreatDeveloper66)
+

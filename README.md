@@ -36,7 +36,7 @@ port number in environment variables used for deployment
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-Your Name - [ashaffe@gmail.com](mailto:ashaffe@gmail.com)]  
+Adam Shaffer - [ashaffe@gmail.com](mailto:ashaffe@gmail.com)]  
 
 ## Author
 

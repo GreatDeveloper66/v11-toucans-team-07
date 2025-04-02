@@ -1,3 +1,28 @@
+/* 
+
+- Imports:
+	- "../GreatDeveloper66/style.css": Imports additional styles from a relative path.
+	- "../VarunR/style.css": Imports additional styles from another relative path.
+	- Google Fonts: Imports 'Roboto' and 'Signika' fonts with smooth display.
+
+- :root:
+	- --menuText: Defines the color for menu text (#ffd05a).
+	- --headerMenu: Defines the background color for the header menu (#40596b).
+	- --row1Background: Sets the background color for the first row (#55c0ec).
+	- --row3Background: Sets the background color for the third row (#90ddaa).
+	- --footerText: Sets the footer text color with transparency (hsla(0, 0%, 100%, 0.75)).
+	- --footerBackground: Sets the footer background color (#40596b).
+	- --cardColor: Defines the color for cards (#405966).
+
+- html:
+	- scroll-behavior: Enables smooth scrolling for the entire document.
+
+- body:
+	- margin: Centers the body content automatically.
+	- font-family: Sets the font stack to 'Signika', 'Roboto', and fallback to sans-serif.
+	- overflow-x: Prevents horizontal scrolling by hiding overflow.
+	- scroll-behavior: Enables smooth scrolling for the body.
+*/
 @import "../GreatDeveloper66/style.css";
 @import "../VarunR/style.css";
 @import url('https://fonts.googleapis.com/css?family=Roboto|Signika&display=swap');
